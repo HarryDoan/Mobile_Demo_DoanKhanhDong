@@ -1,0 +1,16 @@
+export const icon = {
+  car: require("./icons/car.png"),
+  menu: require("./icons/menu.png"),
+  coin: require("./icons/coin.png"),
+  check: require("./icons/check.png"),
+  back: require("./icons/back.png"),
+  home: require("./icons/home.png"),
+  sync: require("./icons/sync.png"),
+  travel: require("./icons/travel.png"),
+  hand: require("./icons/hand.png"),
+  target: require("./icons/target.png"),
+  map: require("./icons/map.png"),
+  clock: require("./icons/clock.png"),
+  lightning: require("./icons/lightning.png"),
+  car_ic_map: require("./icons/car_ic_map.png"),
+};

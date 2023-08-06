@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "RN_Booking_App",
+    "slug": "RN_Booking_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.bookingappdemo"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.bookingappdemo"
+    },
+    "package": "com.example.bookingappdemo",
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyCkN76GniHPxKMdnkvwZhPxaRJ_KhDpVKI"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "412e7c5e-3142-4158-be98-7b7c55019969"
+      }
+    }
+  }
+}
